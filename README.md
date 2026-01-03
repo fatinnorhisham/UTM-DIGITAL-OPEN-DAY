@@ -45,4 +45,3 @@ This experience has further strengthened my interest in technology and motivated
 me to explore more opportunities related to digital systems and information
 technology in the future.
 </p>
-

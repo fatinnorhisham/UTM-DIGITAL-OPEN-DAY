@@ -1,6 +1,6 @@
 # UTM Digital Open Day Experience
 
-
+![image alt](https://github.com/fatinnorhisham/UTM-DIGITAL-OPEN-DAY/blob/f6ce53d1a537073944e64c35b51fa43299223f7f/utm%20digital%20open%20day%20.jpeg)<br>
 On **28 October 2025**, I had the opportunity to join the
 UTM Digital Open Day held at UTM Digital (D07),
 Universiti Teknologi Malaysia (UTM), Johor Bahru. The event was designed to expose
